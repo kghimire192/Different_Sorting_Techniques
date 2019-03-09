@@ -1,1 +1,1 @@
-# Different_Sorting_Techniques
+# Different Sorting Techniques
